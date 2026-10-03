@@ -9,7 +9,6 @@ const artwork = [
   { src: "Digital%20Painting/FinalTommy.png", category: "Digital Painting" },
   { src: "Digital%20Painting/Geyes.png", category: "Digital Painting" },
   { src: "Digital%20Painting/IshaFinal_09-20-2026.png", category: "Digital Painting" },
-  { src: "Digital%20Painting/Maddie.png", category: "Digital Painting" },
   { src: "Digital%20Painting/pers.png", category: "Digital Painting" },
   { src: "Digital%20Painting/Raesummer.png", category: "Digital Painting" },
   { src: "Digital%20Painting/uts.png", category: "Digital Painting" },
@@ -39,7 +38,6 @@ const artwork = [
   { src: "Emotes/Wave.png", category: "Emotes" },
   { src: "Pixel%20Arts/Aaaaaaaaaaa.png", category: "Pixel Arts" },
   { src: "Pixel%20Arts/MizuBlack.png", category: "Pixel Arts" },
-  { src: "Pixel%20Arts/PixelIcon.png", category: "Pixel Arts" },
 ];
 
 const gallery = document.querySelector("#gallery");
